@@ -8,8 +8,7 @@ sourceFiles = [
 	'box.core',
 	'box.eventpublisher',
 	'box.view',
-	'box.router',
-	'box.book'
+	'box.router'
 	]
 
 exerr  = (err, sout,  serr)->
